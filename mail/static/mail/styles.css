@@ -1,0 +1,23 @@
+textarea {
+    min-height: 400px;
+}
+.Read {
+  padding:3px 0px 3px 3px;
+  border: 2px solid darkgrey;
+  background-color: gray;
+  margin:3px;
+}
+.Unread {
+  padding:7px 0px 0px 3px;
+  border: 2px solid darkgrey;
+  background-color: white;
+  margin:3px;
+}
+
+button {
+  margin: 3px;
+}
+
+.divider {
+  border-top: 0.5px solid grey;
+}
